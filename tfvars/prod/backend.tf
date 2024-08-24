@@ -1,4 +1,4 @@
-bucket = "chinna-prod"
+bucket = "chinnareddy-prod"
 key    = "multi-env-tfvars"
 region = "us-east-1"
-dynamodb_table = "chinna-prod"
+dynamodb_table = "chinnareddy-prod"

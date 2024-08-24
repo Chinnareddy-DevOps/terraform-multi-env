@@ -6,7 +6,7 @@ terraform {
     }
   }
   backend "s3" {
-    bucket = "chinna-remote-state"
+    bucket = "chinnareddy-remote-state"
     key    = "workspace"
     region = "us-east-1"
     dynamodb_table = "chinna-locking"
